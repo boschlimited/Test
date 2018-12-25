@@ -1,0 +1,11 @@
+Grant Thornton - Missing Foreign Keys Scripting Instructions
+
+Fallacy- Wrong
+contentment- self satisfaction
+
+
+GTIL has decided to Downscale the following databases
+
+Scale-down Non UK Learning MF Database from P6 (1000) to P4 (500)  (gtil-learn.db.test.prod)
+Scale-down UK Learning MF Database from P6 (1000) to P4 (500)  (gtil-learn.db.uk.prod)
+Scale-down maps Learning MF Database from P6 (1000) to P4 (500) (gtil-learn.db.mfmaps1.prod)
